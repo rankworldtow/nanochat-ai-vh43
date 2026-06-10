@@ -1,4 +1,4 @@
-# 
+# Lightweight nanochat themes. Featuring document-analysis and plugin-system — optimized for maximum performance and efficiency.
 
 
 
